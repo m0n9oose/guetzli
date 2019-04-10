@@ -32,7 +32,7 @@
 namespace {
 
 // The current guetzli version
-static const char* const  kVersion = "1.0.1";
+static const char* const  kVersion = "1.0.2";
 
 constexpr int kDefaultJPEGQuality = 95;
 
